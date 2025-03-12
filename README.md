@@ -2,6 +2,8 @@
 
 A sleek, customizable, and colorful loading bar for Python command-line applications.
 
+![LoadingBarCli](./demo/Loadingcli.png)
+
 ## 🚀 Installation
 
 Install `loadingbarcli` via pip:
@@ -9,6 +11,7 @@ Install `loadingbarcli` via pip:
 ```bash
 pip install loadingbarcli
 ```
+
 
 ## 📘 Usage
 
