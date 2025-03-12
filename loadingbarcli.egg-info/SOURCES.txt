@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+loadingbarcli/__init__.py
+loadingbarcli/loadingbarcli.py
+loadingbarcli.egg-info/PKG-INFO
+loadingbarcli.egg-info/SOURCES.txt
+loadingbarcli.egg-info/dependency_links.txt
+loadingbarcli.egg-info/requires.txt
+loadingbarcli.egg-info/top_level.txt
+tests/test_loadingbar.py
